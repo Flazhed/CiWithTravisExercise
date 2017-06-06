@@ -1,6 +1,6 @@
 target
 nbproject
 *.log
-
+.idea/
 node_modules
 
